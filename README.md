@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java & web based student projects**
 
-- 💬 Ask me about **ava programming, OOP concepts, Data Structures**
+- 💬 Ask me about **Java programming, OOP concepts, Data Structures**
 
 - 📫 How to reach me **maleeshakaumini@icloud.com**
 
